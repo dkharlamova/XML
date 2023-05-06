@@ -6,6 +6,6 @@
   <Environment>iPhon 14 pro iOS 16.4.1</Environment>
   <Title>приложение вылетает при запуске</Title>
   <Steps>открыть приложение Capital.com</Steps>
-  <Expected Result>приложение открывается</Expected Result>
-  <Actual Result>приложение вылетает</Actual Result>
+  <Expected_Result>приложение открывается</Expected_Result>
+  <Actual_Result>приложение вылетает</Actual_Result>
 </bug_report>  
